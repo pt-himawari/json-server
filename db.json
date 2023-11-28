@@ -355,5 +355,284 @@
       "name": "Vans"
     }
   ],
-  "colors": ["Black", "Blue", "Red", "Green", "White"]
+  "colors": ["Black", "Blue", "Red", "Green", "White"],
+
+  "cosmeticsList": [
+    {
+      "id": 1,
+      "name": "Mario Badescu",
+      "type": "skincare",
+      "category": "cleaner",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177101/Skincare/cleaner/etsqftrotadi7bl2ffdw.png",
+      "brand": "GLAMGLOW"
+    },
+    {
+      "id": 2,
+      "name": "Well Off ",
+      "type": "skincare",
+      "category": "cleaner",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701180749/Skincare/cleaner/thdcruorsltbitfzwg2k.png",
+      "brand": "Origins"
+    },
+    {
+      "id": 3,
+      "name": "Clear Improvement ",
+      "type": "skincare",
+      "category": "mask",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178151/Skincare/Mask/xbdwf7nvp0enhzhm1uhb.jpg",
+      "brand": "GLAMGLOW"
+    },
+    {
+      "id": 4,
+      "name": "DR. ANDREW WEIL FOR ORIGINS",
+      "type": "skincare",
+      "category": "mask",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178151/Skincare/Mask/xbdwf7nvp0enhzhm1uhb.jpg",
+      "brand": "Origins"
+    },
+    {
+      "id": 5,
+      "name": "MAD PLUS + REJUVINATING TMT",
+      "type": "skincare",
+      "category": "moisturizer",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701180875/Skincare/Moisturizer/ogunqcn4hhdof59zkush.png",
+      "brand": "CLINIQUE"
+    },
+    {
+      "id": 6,
+      "name": "MOISTURIZER",
+      "type": "skincare",
+      "category": "moisturizer",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178204/Skincare/Moisturizer/vvrlol6znoaiara4gpbu.jpg",
+      "brand": "Origins"
+    },
+    {
+      "id": 7,
+      "name": "HYPER REAL SERUMIZER",
+      "type": "skincare",
+      "category": "serum",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178272/Skincare/Serum/ealats1p1om8vcdpxvo1.jpg",
+      "brand": "MAC"
+    },
+    {
+      "id": 8,
+      "name": "BB Cream",
+      "type": "skincare",
+      "category": "serum",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178271/Skincare/Serum/ggqovk7n7naarsxvdnu3.png",
+      "brand": "LAB"
+    },
+    {
+      "id": 9,
+      "name": "CLARIFYING LOTION 4",
+      "type": "skincare",
+      "category": "toner",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177525/Skincare/Toner/r5euekronuo0unblirzr.jpg",
+      "brand": "CLINIQUE"
+    },
+    {
+      "id": 10,
+      "name": "CLEARING WATER LOTION",
+      "type": "skincare",
+      "category": "toner",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177525/Skincare/Toner/axbz6scvntgzifkyepmj.jpg",
+      "brand": "LAB"
+    },
+    {
+      "id": 11,
+      "name": "MR. CHISELED CONTOUR BRUSH",
+      "type": "makeup",
+      "category": "accessories",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178851/Makup/accessories/bydyteb0u4clsugtpfk1.jpg",
+      "brand": "SMASHBOX"
+    },
+    {
+      "id": 12,
+      "name": "M·A·C LASH / 80 ROMANTIC ",
+      "type": "makeup",
+      "category": "accessories",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178851/Makup/accessories/n1um9tge2ejis1bnsx32.jpg",
+      "brand": "MAC"
+    },
+    {
+      "id": 13,
+      "name": "Mascara Kandi Koated ",
+      "type": "makeup",
+      "category": "eye",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178373/Makup/eye/bmy6ytw7x1qiaom7igtb.jpg",
+      "brand": "SMASHBOX"
+    },
+    {
+      "id": 14,
+      "name": "EYE COLOR QUAD01",
+      "type": "makeup",
+      "category": "eye",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178373/Makup/eye/thduepvrhhms8lzxa7qs.jpg",
+      "brand": "MAC"
+    },
+    {
+      "id": 15,
+      "name": "BORN THIS WAY UNDETECTABLE ",
+      "type": "makeup",
+      "category": "face",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178442/Makup/face/jbivpxhwmwc5cvdeyvl5.jpg",
+      "brand": "CLINIQUE"
+    },
+    {
+      "id": 16,
+      "name": "MINI SKIN LONG-WEAR",
+      "type": "makeup",
+      "category": "face",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178442/Makup/face/eclyz9yid3b52uppy4fv.jpg",
+      "brand": "Bobbi"
+    },
+    {
+      "id": 17,
+      "name": "BEYOND PERFECTING",
+      "type": "makeup",
+      "category": "face",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178441/Makup/face/n4xxurto7tzthi4dlmtt.jpg",
+      "brand": "CLINIQUE"
+    },
+    {
+      "id": 18,
+      "name": "M.A.C Lipstick Russian red",
+      "type": "makeup",
+      "category": "lip",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178567/Makup/lip/iluyxpvpst0mcwur2rq2.avif",
+      "brand": "CLINIQUE"
+    },
+    {
+      "id": 19,
+      "name": "LIP COLOR",
+      "type": "makeup",
+      "category": "lip",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178567/Makup/lip/q9b4cyyjp8x13rpgd6sr.jpg",
+      "brand": "TOM FORD"
+    },
+    {
+      "id": 20,
+      "name": "ILLUMINATED BLONDE",
+      "type": "haircare",
+      "category": "conditioner",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178958/haircare/conditioner/wtsj5aag94watvl8e7lb.jpg",
+      "brand": "Bumble"
+    },
+    {
+      "id": 21,
+
+      "name": "SURF FOAM SPRAY BLOW",
+      "type": "haircare",
+      "category": "conditioner",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701183010/haircare/conditioner/ju24gvib6lze3is91fcd.jpg",
+      "brand": "Aveda"
+    },
+    {
+      "id": 22,
+      "name": "WHILE YOU SLEEP DAMAGE",
+      "type": "haircare",
+      "category": "hairmask",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179002/haircare/hairmask/zzekgcge4x9bz4xmrzge.jpg",
+      "brand": "Bumble"
+    },
+    {
+      "id": 23,
+      "name": "SMOOTH INFUSION",
+      "type": "haircare",
+      "category": "hairmask",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179002/haircare/hairmask/opicprvv9yvf8wcamgva.jpg",
+      "brand": "Aveda"
+    },
+    {
+      "id": 24,
+      "name": "Olaplex",
+      "type": "haircare",
+      "category": "shampoo",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179063/haircare/shampoo/gdj93qfzohxukhhndln1.png",
+      "brand": "Bumble"
+    },
+    {
+      "id": 24,
+      "name": "PRÊT-À-POWDER TRÈS",
+      "type": "haircare",
+      "category": "shampoo",
+      "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+      "originalPrice": 80.0,
+      "currentPrice": 64.0,
+      "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701183304/haircare/shampoo/fch7k8vyhbvovdyio1uf.jpg",
+      "brand": "Bumble"
+    }
+  ]
 }
