@@ -662,5 +662,257 @@
       "brand": "Bumble"
     }
   ],
-  "orderList": []
+  "orderList": [
+    {
+      "orderId": "qrz4ZnFDN",
+      "orderInfo": {
+        "subTotal": 493,
+        "shipping": 20,
+        "total": 513,
+        "status": "draft",
+        "orderDate": 1701610464
+      },
+      "orderDetails": [
+        {
+          "id": 1,
+          "name": "Mario Badescu",
+          "type": "skincare",
+          "category": "cleaner",
+          "star": 3.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177101/Skincare/cleaner/etsqftrotadi7bl2ffdw.png",
+          "brand": "GLAMGLOW",
+          "quantity": 1,
+          "amount": 64
+        },
+        {
+          "id": 2,
+          "name": "Well Off ",
+          "type": "skincare",
+          "category": "cleaner",
+          "star": 4.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 140,
+          "currentPrice": 100,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701180749/Skincare/cleaner/thdcruorsltbitfzwg2k.png",
+          "brand": "Origins",
+          "quantity": 3,
+          "amount": 300
+        },
+        {
+          "id": 3,
+          "name": "Clear Improvement ",
+          "type": "skincare",
+          "category": "mask",
+          "star": 2.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 169,
+          "currentPrice": 129,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178151/Skincare/Mask/xbdwf7nvp0enhzhm1uhb.jpg",
+          "brand": "GLAMGLOW",
+          "quantity": 1,
+          "amount": 129
+        }
+      ],
+      "customerInfo": {
+        "fullName": "Leila Alford",
+        "phone": "07085153126",
+        "email": "dupetekica@mailinator.com",
+        "address": "Exercitationem atque, Quae ut ut sed deser, Reprehenderit ipsam, Cillum velit cillum ",
+        "cardName": "Genevieve Doyle",
+        "cardNumber": "1234-1234-1224",
+        "expDate": "11/24",
+        "cvv": "123"
+      },
+      "id": 1
+    },
+    {
+      "orderId": "mLZSN_8aa",
+      "orderInfo": {
+        "subTotal": 1200,
+        "shipping": 0,
+        "total": 1200,
+        "status": "draft",
+        "orderDate": 1701610850
+      },
+      "orderDetails": [
+        {
+          "id": 1,
+          "name": "Mario Badescu",
+          "type": "skincare",
+          "category": "cleaner",
+          "star": 3.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177101/Skincare/cleaner/etsqftrotadi7bl2ffdw.png",
+          "brand": "GLAMGLOW",
+          "quantity": 1,
+          "amount": 64
+        },
+        {
+          "id": 4,
+          "name": "DR. ANDREW WEIL FOR ORIGINS",
+          "type": "skincare",
+          "category": "mask",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 280,
+          "currentPrice": 264,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178151/Skincare/Mask/xbdwf7nvp0enhzhm1uhb.jpg",
+          "brand": "Origins",
+          "quantity": 1,
+          "amount": 264
+        },
+        {
+          "id": 10,
+          "name": "CLEARING WATER LOTION",
+          "type": "skincare",
+          "category": "toner",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 159,
+          "currentPrice": 129,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177525/Skincare/Toner/axbz6scvntgzifkyepmj.jpg",
+          "brand": "LAB",
+          "quantity": 1,
+          "amount": 129
+        },
+        {
+          "id": 13,
+          "name": "Mascara Kandi Koated ",
+          "type": "makeup",
+          "category": "eye",
+          "star": 4.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 202,
+          "currentPrice": 191,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178373/Makup/eye/bmy6ytw7x1qiaom7igtb.jpg",
+          "brand": "SMASHBOX",
+          "quantity": 3,
+          "amount": 573
+        },
+        {
+          "id": 17,
+          "name": "BEYOND PERFECTING",
+          "type": "makeup",
+          "category": "face",
+          "star": 5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178441/Makup/face/n4xxurto7tzthi4dlmtt.jpg",
+          "brand": "CLINIQUE",
+          "quantity": 1,
+          "amount": 64
+        },
+        {
+          "id": 20,
+          "name": "ILLUMINATED BLONDE",
+          "type": "haircare",
+          "category": "conditioner",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 31,
+          "currentPrice": 21,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178958/haircare/conditioner/wtsj5aag94watvl8e7lb.jpg",
+          "brand": "Bumble",
+          "quantity": 2,
+          "amount": 42
+        },
+        {
+          "id": 23,
+          "name": "SMOOTH INFUSION",
+          "type": "haircare",
+          "category": "hairmask",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179002/haircare/hairmask/opicprvv9yvf8wcamgva.jpg",
+          "brand": "Aveda",
+          "quantity": 1,
+          "amount": 64
+        }
+      ],
+      "customerInfo": {
+        "fullName": "Phạm Thương ",
+        "phone": "07085153126",
+        "email": "phamthuong.bs@gmail.com",
+        "address": "Khu Phố Đông Sơn, Thanh Hoá, Bỉm Sơn, Việt Nam",
+        "cardName": "PHAM THI THUONG",
+        "cardNumber": "1234-1234-4566-3456",
+        "expDate": "11/24",
+        "cvv": "123"
+      },
+      "id": 2
+    },
+    {
+      "orderId": "bfOdmxlM3",
+      "orderInfo": {
+        "subTotal": 1056,
+        "shipping": 0,
+        "total": 1056,
+        "status": "draft",
+        "orderDate": 1701611025
+      },
+      "orderDetails": [
+        {
+          "id": 5,
+          "name": "MAD PLUS + REJUVINATING TMT",
+          "type": "skincare",
+          "category": "moisturizer",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 380,
+          "currentPrice": 364,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701180875/Skincare/Moisturizer/ogunqcn4hhdof59zkush.png",
+          "brand": "CLINIQUE",
+          "quantity": 2,
+          "amount": 728
+        },
+        {
+          "id": 6,
+          "name": "MOISTURIZER",
+          "type": "skincare",
+          "category": "moisturizer",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 150,
+          "currentPrice": 100,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178204/Skincare/Moisturizer/vvrlol6znoaiara4gpbu.jpg",
+          "brand": "Origins",
+          "quantity": 2,
+          "amount": 200
+        },
+        {
+          "id": 7,
+          "name": "HYPER REAL SERUMIZER",
+          "type": "skincare",
+          "category": "serum",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178272/Skincare/Serum/ealats1p1om8vcdpxvo1.jpg",
+          "brand": "MAC",
+          "quantity": 2,
+          "amount": 128
+        }
+      ],
+      "customerInfo": {
+        "fullName": "Hoang Van Luu",
+        "phone": "080456234",
+        "email": "luu@gmail.com",
+        "address": "Xã Hải Thành, Hải Lăng, Quảng Trị, Việt Nam",
+        "cardName": "HOANG VAN LUU",
+        "cardNumber": "1234-1234-1234",
+        "expDate": "12/24",
+        "cvv": "234"
+      },
+      "id": 3
+    }
+  ]
 }
