@@ -913,6 +913,341 @@
         "cvv": "234"
       },
       "id": 3
+    },
+    {
+      "orderId": "3RLdazc1e",
+      "orderInfo": {
+        "subTotal": 384,
+        "shipping": 20,
+        "total": 404,
+        "status": "draft",
+        "orderDate": 1701689569
+      },
+      "orderDetails": [
+        {
+          "id": 24,
+          "name": "Olaplex",
+          "type": "haircare",
+          "category": "shampoo",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 71,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179063/haircare/shampoo/gdj93qfzohxukhhndln1.png",
+          "brand": "Bumble",
+          "quantity": 3,
+          "amount": 192
+        },
+        {
+          "id": 15,
+          "name": "BORN THIS WAY UNDETECTABLE ",
+          "type": "makeup",
+          "category": "face",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178442/Makup/face/jbivpxhwmwc5cvdeyvl5.jpg",
+          "brand": "CLINIQUE",
+          "quantity": 1,
+          "amount": 64
+        },
+        {
+          "id": 16,
+          "name": "MINI SKIN LONG-WEAR",
+          "type": "makeup",
+          "category": "face",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178442/Makup/face/eclyz9yid3b52uppy4fv.jpg",
+          "brand": "Bobbi",
+          "quantity": 1,
+          "amount": 64
+        },
+        {
+          "id": 17,
+          "name": "BEYOND PERFECTING",
+          "type": "makeup",
+          "category": "face",
+          "star": 5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178441/Makup/face/n4xxurto7tzthi4dlmtt.jpg",
+          "brand": "CLINIQUE",
+          "quantity": 1,
+          "amount": 64
+        }
+      ],
+      "customerInfo": {
+        "fullName": "Brendan Moore",
+        "phone": "0907865432",
+        "email": "toditupuqe@mailinator.com",
+        "address": "Nostrum voluptas dol, Aliquam amet cupida, Eum voluptatem volu, Nulla impedit aliqu",
+        "cardName": "September Battle",
+        "cardNumber": "1234-5675-5674",
+        "expDate": "11/25",
+        "cvv": "123"
+      },
+      "id": 4
+    },
+    {
+      "orderId": "KMsOoRWtC",
+      "orderInfo": {
+        "subTotal": 2871,
+        "shipping": 0,
+        "total": 2871,
+        "status": "draft",
+        "orderDate": 1701689733
+      },
+      "orderDetails": [
+        {
+          "id": 11,
+          "name": "MR. CHISELED CONTOUR BRUSH",
+          "type": "makeup",
+          "category": "accessories",
+          "star": 3.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178851/Makup/accessories/bydyteb0u4clsugtpfk1.jpg",
+          "brand": "SMASHBOX",
+          "quantity": 4,
+          "amount": 256
+        },
+        {
+          "id": 12,
+          "name": "M·A·C LASH / 80 ROMANTIC ",
+          "type": "makeup",
+          "category": "accessories",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 201,
+          "currentPrice": 189,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178851/Makup/accessories/n1um9tge2ejis1bnsx32.jpg",
+          "brand": "MAC",
+          "quantity": 6,
+          "amount": 1134
+        },
+        {
+          "id": 7,
+          "name": "HYPER REAL SERUMIZER",
+          "type": "skincare",
+          "category": "serum",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178272/Skincare/Serum/ealats1p1om8vcdpxvo1.jpg",
+          "brand": "MAC",
+          "quantity": 5,
+          "amount": 320
+        },
+        {
+          "id": 8,
+          "name": "BB Cream",
+          "type": "skincare",
+          "category": "serum",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 190,
+          "currentPrice": 160,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178271/Skincare/Serum/ggqovk7n7naarsxvdnu3.png",
+          "brand": "LAB",
+          "quantity": 5,
+          "amount": 800
+        },
+        {
+          "id": 20,
+          "name": "ILLUMINATED BLONDE",
+          "type": "haircare",
+          "category": "conditioner",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 31,
+          "currentPrice": 21,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178958/haircare/conditioner/wtsj5aag94watvl8e7lb.jpg",
+          "brand": "Bumble",
+          "quantity": 5,
+          "amount": 105
+        },
+        {
+          "id": 21,
+          "name": "SURF FOAM SPRAY BLOW",
+          "type": "haircare",
+          "category": "conditioner",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701183010/haircare/conditioner/ju24gvib6lze3is91fcd.jpg",
+          "brand": "Aveda",
+          "quantity": 4,
+          "amount": 256
+        }
+      ],
+      "customerInfo": {
+        "fullName": "Ashton Shelton",
+        "phone": "07085153126",
+        "email": "zide@mailinator.com",
+        "address": "Accusamus et aute as, Cupidatat nihil veni, Ipsam repudiandae ad, Sequi laborum volupt",
+        "cardName": "Shaeleigh Haley",
+        "cardNumber": "3456-4566-3456",
+        "expDate": "02/26",
+        "cvv": "456"
+      },
+      "id": 5
+    },
+    {
+      "orderId": "pVkpS8rLo",
+      "orderInfo": {
+        "subTotal": 2785,
+        "shipping": 0,
+        "total": 2785,
+        "status": "draft",
+        "orderDate": 1701689899
+      },
+      "orderDetails": [
+        {
+          "id": 3,
+          "name": "Clear Improvement ",
+          "type": "skincare",
+          "category": "mask",
+          "star": 2.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 169,
+          "currentPrice": 129,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178151/Skincare/Mask/xbdwf7nvp0enhzhm1uhb.jpg",
+          "brand": "GLAMGLOW",
+          "quantity": 5,
+          "amount": 645
+        },
+        {
+          "id": 9,
+          "name": "CLARIFYING LOTION 4",
+          "type": "skincare",
+          "category": "toner",
+          "star": 3.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 200,
+          "currentPrice": 150,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177525/Skincare/Toner/r5euekronuo0unblirzr.jpg",
+          "brand": "CLINIQUE",
+          "quantity": 4,
+          "amount": 600
+        },
+        {
+          "id": 15,
+          "name": "BORN THIS WAY UNDETECTABLE ",
+          "type": "makeup",
+          "category": "face",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178442/Makup/face/jbivpxhwmwc5cvdeyvl5.jpg",
+          "brand": "CLINIQUE",
+          "quantity": 4,
+          "amount": 256
+        },
+        {
+          "id": 18,
+          "name": "M.A.C Lipstick Russian red",
+          "type": "makeup",
+          "category": "lip",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 49,
+          "currentPrice": 44,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178567/Makup/lip/iluyxpvpst0mcwur2rq2.avif",
+          "brand": "CLINIQUE",
+          "quantity": 3,
+          "amount": 132
+        },
+        {
+          "id": 19,
+          "name": "LIP COLOR",
+          "type": "makeup",
+          "category": "lip",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178567/Makup/lip/q9b4cyyjp8x13rpgd6sr.jpg",
+          "brand": "TOM FORD",
+          "quantity": 4,
+          "amount": 256
+        },
+        {
+          "id": 16,
+          "name": "MINI SKIN LONG-WEAR",
+          "type": "makeup",
+          "category": "face",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178442/Makup/face/eclyz9yid3b52uppy4fv.jpg",
+          "brand": "Bobbi",
+          "quantity": 4,
+          "amount": 256
+        },
+        {
+          "id": 24,
+          "name": "PRÊT-À-POWDER TRÈS",
+          "type": "haircare",
+          "category": "shampoo",
+          "star": 4.5,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701183304/haircare/shampoo/fch7k8vyhbvovdyio1uf.jpg",
+          "brand": "Bumble",
+          "quantity": 3,
+          "amount": 192
+        },
+        {
+          "id": 22,
+          "name": "WHILE YOU SLEEP DAMAGE",
+          "type": "haircare",
+          "category": "hairmask",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179002/haircare/hairmask/zzekgcge4x9bz4xmrzge.jpg",
+          "brand": "Bumble",
+          "quantity": 4,
+          "amount": 256
+        },
+        {
+          "id": 23,
+          "name": "SMOOTH INFUSION",
+          "type": "haircare",
+          "category": "hairmask",
+          "star": 4,
+          "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
+          "originalPrice": 80,
+          "currentPrice": 64,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701179002/haircare/hairmask/opicprvv9yvf8wcamgva.jpg",
+          "brand": "Aveda",
+          "quantity": 3,
+          "amount": 192
+        }
+      ],
+      "customerInfo": {
+        "fullName": "Sasha Keith",
+        "phone": "07056743214",
+        "email": "newyvad@mailinator.com",
+        "address": "Dignissimos iste exp, Et vel error dolores, Laborum Sunt possim, Necessitatibus quia ",
+        "cardName": "Ivana Morton",
+        "cardNumber": "4567-3456-4567-3467",
+        "expDate": "04/27",
+        "cvv": "456"
+      },
+      "id": 6
     }
   ]
 }
