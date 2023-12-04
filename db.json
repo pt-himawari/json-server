@@ -669,7 +669,7 @@
         "subTotal": 493,
         "shipping": 5,
         "total": 498,
-        "status": "close",
+        "status": "DELIVERED",
         "orderDate": 1698764400
       },
       "orderDetails": [
@@ -734,7 +734,7 @@
         "subTotal": 1200,
         "shipping": 5,
         "total": 1205,
-        "status": "close",
+        "status": "DELIVERED",
         "orderDate": 1699542000
       },
       "orderDetails": [
@@ -855,7 +855,7 @@
         "subTotal": 1056,
         "shipping": 5,
         "total": 1061,
-        "status": "close",
+        "status": "REFUNDED",
         "orderDate": 1701611025
       },
       "orderDetails": [
@@ -920,7 +920,7 @@
         "subTotal": 384,
         "shipping": 5,
         "total": 389,
-        "status": "shipping",
+        "status": "PENDING",
         "orderDate": 1699542000
       },
       "orderDetails": [
@@ -999,7 +999,7 @@
         "subTotal": 2871,
         "shipping": 0,
         "total": 2871,
-        "status": "shipping",
+        "status": "PENDING",
         "orderDate": 1701689733
       },
       "orderDetails": [
@@ -1106,7 +1106,7 @@
         "subTotal": 2785,
         "shipping": 0,
         "total": 2785,
-        "status": "shipping",
+        "status": "PENDING",
         "orderDate": 1700838000
       },
       "orderDetails": [
