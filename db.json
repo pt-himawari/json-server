@@ -667,8 +667,8 @@
       "orderId": "qrz4ZnFDN",
       "orderInfo": {
         "subTotal": 493,
-        "shipping": 20,
-        "total": 513,
+        "shipping": 5,
+        "total": 498,
         "status": "draft",
         "orderDate": 1698764400
       },
@@ -732,8 +732,8 @@
       "orderId": "mLZSN_8aa",
       "orderInfo": {
         "subTotal": 1200,
-        "shipping": 0,
-        "total": 1200,
+        "shipping": 5,
+        "total": 1205,
         "status": "draft",
         "orderDate": 1699542000
       },
@@ -853,8 +853,8 @@
       "orderId": "bfOdmxlM3",
       "orderInfo": {
         "subTotal": 1056,
-        "shipping": 0,
-        "total": 1056,
+        "shipping": 5,
+        "total": 1061,
         "status": "draft",
         "orderDate": 1701611025
       },
@@ -918,8 +918,8 @@
       "orderId": "3RLdazc1e",
       "orderInfo": {
         "subTotal": 384,
-        "shipping": 20,
-        "total": 404,
+        "shipping": 5,
+        "total": 389,
         "status": "draft",
         "orderDate": 1699542000
       },
