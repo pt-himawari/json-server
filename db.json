@@ -359,12 +359,12 @@
 
   "cosmeticsList": [
     {
-      "id": 1,
+      "id": "SKIN-CL1",
       "name": "Mario Bradesco",
       "type": "skincare",
       "category": "cleaner",
-
       "star": 3.5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 0,
       "currentPrice": 80.0,
@@ -372,11 +372,12 @@
       "brand": "GLAMGLOW"
     },
     {
-      "id": 2,
+      "id": "SKIN-CL23",
       "name": "Well Off ",
       "type": "skincare",
       "category": "cleaner",
       "star": 4.5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 140.0,
       "currentPrice": 120.0,
@@ -384,11 +385,12 @@
       "brand": "Origins"
     },
     {
-      "id": 3,
+      "id": "SKIN-MAK12",
       "name": "Clear Improvement ",
       "type": "skincare",
       "category": "mask",
       "star": 2.5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 0,
       "currentPrice": 129.0,
@@ -396,11 +398,12 @@
       "brand": "GLAMGLOW"
     },
     {
-      "id": 4,
+      "id": "SKIN-MAK1234",
       "name": "DR.Andrew Well For Origins",
       "type": "skincare",
       "category": "mask",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 0,
       "currentPrice": 264.0,
@@ -408,11 +411,12 @@
       "brand": "Origins"
     },
     {
-      "id": 5,
+      "id": "SKIN-MOZT345",
       "name": "Mad Plus + Rejuvinating TMT",
       "type": "skincare",
       "category": "moisturizer",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 380.0,
       "currentPrice": 364.0,
@@ -420,11 +424,12 @@
       "brand": "CLINIQUE"
     },
     {
-      "id": 6,
+      "id": "SKIN-MOZT567",
       "name": "Moisturizer",
       "type": "skincare",
       "category": "moisturizer",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 150.0,
       "currentPrice": 100.0,
@@ -432,11 +437,12 @@
       "brand": "Origins"
     },
     {
-      "id": 7,
+      "id": "SKIN-SER12",
       "name": "Hyper Real Serumizer",
       "type": "skincare",
       "category": "serum",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -444,11 +450,12 @@
       "brand": "MAC"
     },
     {
-      "id": 8,
+      "id": "SKIN-SER56",
       "name": "BB Cream",
       "type": "skincare",
       "category": "serum",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 0,
       "currentPrice": 160.0,
@@ -456,11 +463,12 @@
       "brand": "LAB"
     },
     {
-      "id": 9,
+      "id": "SKIN-TON34",
       "name": "Clarifying Lotion 4",
       "type": "skincare",
       "category": "toner",
       "star": 3.5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 200.0,
       "currentPrice": 190.0,
@@ -468,11 +476,12 @@
       "brand": "CLINIQUE"
     },
     {
-      "id": 10,
+      "id": "SKIN-TON56",
       "name": "Clearing Water Lotion",
       "type": "skincare",
       "category": "toner",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 159.0,
       "currentPrice": 129.0,
@@ -480,11 +489,12 @@
       "brand": "LAB"
     },
     {
-      "id": 11,
+      "id": "MU-ACCES345",
       "name": "MR.Chiseled Contour Brush ",
       "type": "makeup",
       "category": "accessories",
       "star": 3.5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 0,
       "currentPrice": 64.0,
@@ -492,11 +502,12 @@
       "brand": "SMASHBOX"
     },
     {
-      "id": 12,
+      "id": "MU-ACCES567",
       "name": "M·A·C Lash / 80  Romantic ",
       "type": "makeup",
       "category": "accessories",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 201.0,
       "currentPrice": 189.0,
@@ -504,11 +515,12 @@
       "brand": "MAC"
     },
     {
-      "id": 13,
+      "id": "MU-EYE789",
       "name": "Mascara Kandi Koated ",
       "type": "makeup",
       "category": "eye",
       "star": 4.5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 202.0,
       "currentPrice": 200.0,
@@ -516,11 +528,12 @@
       "brand": "SMASHBOX"
     },
     {
-      "id": 14,
+      "id": "MU-EYE45667",
       "name": "Eye Color Quad01",
       "type": "makeup",
       "category": "eye",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 100.0,
       "currentPrice": 89.0,
@@ -528,11 +541,12 @@
       "brand": "MAC"
     },
     {
-      "id": 15,
+      "id": "MU-FACE456",
       "name": "Born Thi Way Undetectable  ",
       "type": "makeup",
       "category": "face",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -540,11 +554,12 @@
       "brand": "CLINIQUE"
     },
     {
-      "id": 16,
+      "id": "MU-FACE5676DF",
       "name": "Mine Skin Long-Wear ",
       "type": "makeup",
       "category": "face",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -552,11 +567,12 @@
       "brand": "Bobbi"
     },
     {
-      "id": 17,
+      "id": "MU-FACE45Ds",
       "name": "Beyond Perfecting",
       "type": "makeup",
       "category": "face",
       "star": 5,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -564,11 +580,12 @@
       "brand": "CLINIQUE"
     },
     {
-      "id": 18,
+      "id": "MU-LIPe343",
       "name": "M.A.C Lipstick Russian Red",
       "type": "makeup",
       "category": "lip",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 49.0,
       "currentPrice": 44.0,
@@ -576,11 +593,12 @@
       "brand": "CLINIQUE"
     },
     {
-      "id": 19,
+      "id": "MU-LIPde345",
       "name": "Lip Color",
       "type": "makeup",
       "category": "lip",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -588,11 +606,12 @@
       "brand": "TOM FORD"
     },
     {
-      "id": 20,
+      "id": "HAIR-CONDER3434",
       "name": "Illuminated Blonde",
       "type": "haircare",
       "category": "conditioner",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 31.0,
       "currentPrice": 21.0,
@@ -600,12 +619,12 @@
       "brand": "Bumble"
     },
     {
-      "id": 21,
-
+      "id": "HAIR-CONDER5656",
       "name": "Surf Foam Spray Blow",
       "type": "haircare",
       "category": "conditioner",
       "star": 4,
+      "quantity": 0,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -613,11 +632,12 @@
       "brand": "Aveda"
     },
     {
-      "id": 22,
+      "id": "HAIR-MAKiei593",
       "name": "While You Sleep Damage",
       "type": "haircare",
       "category": "hairmask",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -625,11 +645,12 @@
       "brand": "Bumble"
     },
     {
-      "id": 23,
+      "id": "HAIR-MAK34543",
       "name": "Smooth Infusion",
       "type": "haircare",
       "category": "hairmask",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -637,11 +658,12 @@
       "brand": "Aveda"
     },
     {
-      "id": 24,
+      "id": "HAIR-SHAP34",
       "name": "Olaplex",
       "type": "haircare",
       "category": "shampoo",
       "star": 4,
+      "quantity": 100,
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 71.0,
       "currentPrice": 64.0,
@@ -649,11 +671,13 @@
       "brand": "Bumble"
     },
     {
-      "id": 25,
+      "id": "HAIR-SHAP34344",
       "name": "Prêt-à-Powder Très",
       "type": "haircare",
       "category": "shampoo",
       "star": 4.5,
+      "quantity": 0,
+
       "description": "A lightweight liquid foundation that achieves a radiant, silky finish.",
       "prevPrice": 80.0,
       "currentPrice": 64.0,
@@ -673,7 +697,7 @@
       },
       "orderDetails": [
         {
-          "id": 1,
+          "id": "SKIN-",
           "name": "Mario Bradesco",
           "type": "skincare",
           "category": "cleaner",
@@ -687,7 +711,7 @@
           "amount": 64
         },
         {
-          "id": 2,
+          "id": "SKIN-",
           "name": "Well Off ",
           "type": "skincare",
           "category": "cleaner",
@@ -701,7 +725,7 @@
           "amount": 300
         },
         {
-          "id": 3,
+          "id": "SKIN-",
           "name": "Clear Improvement ",
           "type": "skincare",
           "category": "mask",
@@ -738,7 +762,7 @@
       },
       "orderDetails": [
         {
-          "id": 1,
+          "id": "SKIN-",
           "name": "Mario Bradesco",
           "type": "skincare",
           "category": "cleaner",
@@ -752,7 +776,7 @@
           "amount": 64
         },
         {
-          "id": 4,
+          "id": "SKIN-",
           "name": "DR. Andrew Weil for Origins",
           "type": "skincare",
           "category": "mask",
@@ -766,7 +790,7 @@
           "amount": 264
         },
         {
-          "id": 10,
+          "id": "SKIN-",
           "name": "Clearing Water Lotion",
           "type": "skincare",
           "category": "toner",
@@ -859,7 +883,7 @@
       },
       "orderDetails": [
         {
-          "id": 5,
+          "id": "SKIN-",
           "name": "Mad Plus + Rejuvenating TMT",
           "type": "skincare",
           "category": "moisturizer",
@@ -873,7 +897,7 @@
           "amount": 728
         },
         {
-          "id": 6,
+          "id": "SKIN-",
           "name": "MOISTURIZER",
           "type": "skincare",
           "category": "moisturizer",
@@ -887,7 +911,7 @@
           "amount": 200
         },
         {
-          "id": 7,
+          "id": "SKIN-",
           "name": "Hyper Real Serumizer",
           "type": "skincare",
           "category": "serum",
@@ -1031,7 +1055,7 @@
           "amount": 1134
         },
         {
-          "id": 7,
+          "id": "SKIN-",
           "name": "Hyper Real Serumizer",
           "type": "skincare",
           "category": "serum",
@@ -1045,7 +1069,7 @@
           "amount": 320
         },
         {
-          "id": 8,
+          "id": "SKIN-",
           "name": "BB Cream",
           "type": "skincare",
           "category": "serum",
@@ -1110,7 +1134,7 @@
       },
       "orderDetails": [
         {
-          "id": 3,
+          "id": "SKIN-",
           "name": "Clear Improvement ",
           "type": "skincare",
           "category": "mask",
@@ -1124,7 +1148,7 @@
           "amount": 645
         },
         {
-          "id": 9,
+          "id": "SKIN-",
           "name": "Clarifying Lotion 4",
           "type": "skincare",
           "category": "toner",
