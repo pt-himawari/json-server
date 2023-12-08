@@ -359,6 +359,19 @@
 
   "cosmeticsList": [
     {
+      "id": "SKIN-i_EUf2Qr8",
+      "name": "a",
+      "type": "skincare",
+      "category": "mask",
+      "brand": "Rotho",
+      "currentPrice": "12",
+      "quantity": "9",
+      "description": "12",
+      "prevPrice": 0,
+      "star": 0,
+      "img": "https://res.cloudinary.com/dite4bta9/image/upload/v1702050870/test/wss4kean0rqetuzgbree.png"
+    },
+    {
       "id": "SKIN-CL1",
       "name": "Mario Bradesco",
       "type": "skincare",
