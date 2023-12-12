@@ -692,8 +692,8 @@
         "subTotal": 1665,
         "shipping": 5,
         "total": 1670,
-        "status": "PENDING",
-        "orderDate": 1702398670
+        "status": "DELIVERED",
+        "orderDate": 1694217600
       },
       "orderDetails": [
         {
@@ -785,8 +785,8 @@
         "subTotal": 2160,
         "shipping": 0,
         "total": 2165,
-        "status": "PENDING",
-        "orderDate": 1702399071
+        "status": "REFUNDED",
+        "orderDate": 1694304000
       },
       "orderDetails": [
         {
@@ -892,8 +892,8 @@
         "subTotal": 1825,
         "shipping": 5,
         "total": 1830,
-        "status": "PENDING",
-        "orderDate": 1702399542
+        "status": "DELIVERED",
+        "orderDate": 1699660800
       },
       "orderDetails": [
         {
@@ -1015,8 +1015,8 @@
         "subTotal": 1096,
         "shipping": 5,
         "total": 1101,
-        "status": "PENDING",
-        "orderDate": 1702399908
+        "status": "DELIVERED",
+        "orderDate": 1701561600
       },
       "orderDetails": [
         {
@@ -1095,8 +1095,8 @@
         "subTotal": 532,
         "shipping": 5,
         "total": 532,
-        "status": "draft",
-        "orderDate": 1702400200
+        "status": "PENDING",
+        "orderDate": 1701993600
       },
       "orderDetails": [
         {
@@ -1202,7 +1202,7 @@
         "subTotal": 753,
         "shipping": 0,
         "total": 753,
-        "status": "draft",
+        "status": "PENDING",
         "orderDate": 1702400842
       },
       "orderDetails": [
@@ -1318,6 +1318,58 @@
         "phone": "09088765544"
       },
       "id": 6
+    },
+    {
+      "orderId": "Xu0FY-Glb",
+      "orderInfo": {
+        "subTotal": 1040,
+        "shipping": 0,
+        "total": 1045,
+        "status": "PENDING",
+        "orderDate": 1702401743
+      },
+      "orderDetails": [
+        {
+          "id": "SKIN-CL1",
+          "name": "Mario Bradesco",
+          "type": "skincare",
+          "category": "cleaner",
+          "star": 3.5,
+          "quantity": 3,
+          "description": "<h3>DESCRIPTION</h3><p>Experience soft, smooth skin with our 98% naturally derived* body scrub. Powered by nature, walnut shells and bamboo soften and smooth skin with gentle exfoliation, a plant-derived blend of cherry blossom extract and sweet almond oil condition skin.*From plants, non-petroleum minerals or water.</p><h3>BENEFITS</h3><p>Softens and smooths skin with gentle exfoliation. 98% naturally derived* Naturally derived walnut shells and bamboo soften and smooth skin with gentle exfoliation Conditions skin with plant-derived blend, including cherry blossom extract and sweet almond oil, naturally derived from the ripe seed kernels of the almond tree Features 100% naturally derived, sweet floral Pure-Fume aroma Suitable for all skin types VeganFree From: SiliconePetrolatumParabensMineral OilGlutenPropylene GlycolAvedas own Pure-Fume aroma with tonka bean, certified organic orange, ylang ylang and other pure flower and plant essences.*From plants, non-petroleum minerals or waterAveda is a cruelty-free brand. We do not conduct animal testing and never ask others to do so on our behalf.</p><h3>Ingredients</h3><p>Ingredients: WaterAquaEau, Helianthus Annuus (Sunflower) Seed Oil, Calcium Carbonate, Stearic Acid, Glycerin, Juglans Regia (Walnut) Shell Powder, Elaeis Guineensis (Palm) Oil, Cocos Nucifera (Coconut) Oil, Kaolin, Cetyl Alcohol, Bambusa Arundinacea (Bamboo) Stem Powder, Prunus Serrulata Flower (Cherry) Extract, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tocopherol, Bentonite, Magnesium Aluminum Silicate, Xanthan Gum, Glyceryl Caprylate, Ethylhexylglycerin, Butylene Glycol, Potassium Hydroxide, Fragrance (Parfum), Linalool, Limonene, Geraniol, Citronellol, Amyl Cinnamal, Phenoxyethanol, Titanium Dioxide (Ci 77891)</p><h3>How To Use</h3><p>Massage into moist skin. Pay attention to rough, dry areas. Rinse. Gentle enough to use daily.</p>",
+          "prevPrice": 0,
+          "currentPrice": 80,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701177101/Skincare/cleaner/etsqftrotadi7bl2ffdw.png",
+          "brand": "GLAMGLOW",
+          "amount": 240
+        },
+        {
+          "id": "SKIN-SER56",
+          "name": "BB Cream",
+          "type": "skincare",
+          "category": "serum",
+          "star": 4,
+          "quantity": 5,
+          "description": "<h3>DESCRIPTION</h3><p>Experience soft, smooth skin with our 98% naturally derived* body scrub. Powered by nature, walnut shells and bamboo soften and smooth skin with gentle exfoliation, a plant-derived blend of cherry blossom extract and sweet almond oil condition skin.*From plants, non-petroleum minerals or water.</p><h3>BENEFITS</h3><p>Softens and smooths skin with gentle exfoliation. 98% naturally derived* Naturally derived walnut shells and bamboo soften and smooth skin with gentle exfoliation Conditions skin with plant-derived blend, including cherry blossom extract and sweet almond oil, naturally derived from the ripe seed kernels of the almond tree Features 100% naturally derived, sweet floral Pure-Fume aroma Suitable for all skin types VeganFree From: SiliconePetrolatumParabensMineral OilGlutenPropylene GlycolAvedas own Pure-Fume aroma with tonka bean, certified organic orange, ylang ylang and other pure flower and plant essences.*From plants, non-petroleum minerals or waterAveda is a cruelty-free brand. We do not conduct animal testing and never ask others to do so on our behalf.</p><h3>Ingredients</h3><p>Ingredients: WaterAquaEau, Helianthus Annuus (Sunflower) Seed Oil, Calcium Carbonate, Stearic Acid, Glycerin, Juglans Regia (Walnut) Shell Powder, Elaeis Guineensis (Palm) Oil, Cocos Nucifera (Coconut) Oil, Kaolin, Cetyl Alcohol, Bambusa Arundinacea (Bamboo) Stem Powder, Prunus Serrulata Flower (Cherry) Extract, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Tocopherol, Bentonite, Magnesium Aluminum Silicate, Xanthan Gum, Glyceryl Caprylate, Ethylhexylglycerin, Butylene Glycol, Potassium Hydroxide, Fragrance (Parfum), Linalool, Limonene, Geraniol, Citronellol, Amyl Cinnamal, Phenoxyethanol, Titanium Dioxide (Ci 77891)</p><h3>How To Use</h3><p>Massage into moist skin. Pay attention to rough, dry areas. Rinse. Gentle enough to use daily.</p>",
+          "prevPrice": 0,
+          "currentPrice": 160,
+          "image": "https://res.cloudinary.com/dite4bta9/image/upload/v1701178271/Skincare/Serum/ggqovk7n7naarsxvdnu3.png",
+          "brand": "LAB",
+          "quantityCart": 1,
+          "amount": 800
+        }
+      ],
+      "customerInfo": {
+        "fullAddress": "Đội 8, Quận 8, Hồ Chí Minh, Việt Nam",
+        "cardName": "LE VAN HUNG",
+        "cardNumber": "4545-6576-7887-8989",
+        "cvv": "123",
+        "email": "hung@gmail.com",
+        "expDate": "02/25",
+        "fullName": "Lê Văn Hưng",
+        "phone": "0908876542"
+      },
+      "id": 7
     }
   ]
 }
